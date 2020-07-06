@@ -1,0 +1,149 @@
+div.upperdiv {
+	background-image:url(images/header_bg.jpg);
+	background-size: cover;
+	height: 770px;
+	margin:none;
+}
+
+h1 {
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
+	font-size: 52px;
+	padding-top: 55px;
+	padding-left: 140px;
+}
+
+div.upperdiv p {
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 48px;
+	padding-top: 130px;
+}
+
+div.upperdiv button {
+	background-color: #f9e42e;
+	color: #033048;
+	display: block;
+	margin: auto;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 28px;
+	font-weight: bolder;
+	width: 210px;
+	height: 50px;
+	border-radius:6px;
+	margin-top: 80px;
+}
+
+div.lowerdiv {
+	background-image:url(images/testimonial_bg.jpg);
+	background-size: cover;
+	height: 400px;
+}
+
+div.benefits {
+	background-color:#f0efef;
+	margin:none;
+}
+
+div.benefits h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	color: #033048;
+	padding-top: 90px;
+	padding-left: 130px;
+}
+
+div.benefits p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 28px;
+	font-weight: lighter;
+	color:#606161;
+	padding-left: 132px;
+	padding-top: 30px;
+}
+
+div.benefits ul {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 28px;
+	font-weight: lighter;
+	color:#606161;
+	padding-left: 200px;
+	padding-top: 60px;
+	padding-bottom: 80px;
+}
+
+div.lowerdiv p{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 32px;
+	font-weight: lighter;
+	font-style: italic;
+	color: white;
+	text-align: center;
+	padding-top: 70px;
+}
+
+div.lowerdiv h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+div.signupnow {
+	background-color: #f9e42e;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+div.signupnow button {
+	display: block;
+	margin: auto;
+	color: white;
+	background-color: #033048;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: bolder;
+	width: 260px;
+	height: 60px;
+	border-radius:6px;	
+}
+
+div.footer {
+	background-color:#121212;
+	text-align: center;
+}
+
+h4 {
+	color:#f9e42e;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
+	font-size: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+div.footer p {
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	font-weight: normal;
+	font-size: 18px;
+	padding-top: 50px;
+	padding-bottom: 35px;
+}
+
+div.footer img[src='images/twitter.png'] {
+	margin-right: 25px;
+}
+
+div.footer img[src='images/facebook.png'] {
+	margin-left: 25px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
